@@ -26,3 +26,10 @@ git config --global user.email "youremail@gmail.com"
 git init
 git add .
 git commit -m "Initial commit"
+sudo apt update
+sudo apt install git
+git config --global user.name "Your Name"
+git config --global user.email "youremail@gmail.com"
+git init
+git add .
+git commit -m "Initial commit"
